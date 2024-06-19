@@ -1,9 +1,10 @@
 
-# Olá, me chamo Fabio Camargo! 
+# 🥑Hi There, I'm Fabio Camargo!🥑
 
-#### - 🤓 Estudante de Análise e Desenvolvimento de Sistemas
+#### - 🤓 Systems Analysis and Development Student
 
 
+# Languages and Tools 💻
 <div align="center">
   <div>
     <img loading="lazy" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
