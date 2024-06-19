@@ -15,7 +15,7 @@
   </div>
 </div>
 
-# GitHuB Status ✔
+# GitHub Status ✔
 <div align="center">
   <a href="https://github.com/FabioCamargoo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCamargoo&layout=compact&langs_count=7&theme=dracula"/>
